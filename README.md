@@ -27,5 +27,7 @@ This project demonstrates how fundamental NLP techniques such as tokenization, f
 There are several advantages to this approach. It does not require any external libraries beyond standard Python modules, making it lightweight and easy to deploy. It also works without an internet connection, ensuring privacy and reliability. However, since it is based on simple heuristics, the quality of the summary may not always match that of advanced AI models.
 
 In conclusion, this project successfully implements a basic text summarization tool using offline NLP techniques. It highlights the importance of summarization in handling large textual data and provides a strong foundation for exploring more advanced methods such as abstractive summarization and deep learning-based models in the future.
-outpiut of the task:
+
+output of the task:
+
 <img width="1282" height="373" alt="Image" src="https://github.com/user-attachments/assets/52918145-e2dc-4e62-895b-71e4d344a5eb" />
