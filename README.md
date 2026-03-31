@@ -1,4 +1,19 @@
 # Text-Summarization-tool-project
+
+Company name: CodeTech IT solutions
+
+Name: Sowmya G S
+
+Domain : Artificial Intelligence
+
+Duration : 4 weeks
+
+Intern ID : CTIS7569
+
+Mentor : Neela Santosh
+
+Descrpition of the task :
+
 This project focuses on developing a simple tool that summarizes lengthy articles using basic Natural Language Processing (NLP) techniques. In today’s digital world, large volumes of textual information are generated every day in the form of articles, blogs, reports, and research papers. Reading and understanding all this information can be time-consuming and inefficient. Therefore, text summarization plays a crucial role in extracting the most important information from a large body of text and presenting it in a concise and meaningful way.
 
 The main objective of this project is to design and implement a Python-based system that takes a long piece of text as input and generates a short summary as output. The system uses basic NLP techniques without relying on internet-based APIs or pre-trained models. This makes the solution simple, efficient, and suitable for offline usage. The approach used in this project is extractive summarization, where key sentences are selected from the original text based on their importance rather than generating new sentences.
